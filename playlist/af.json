@@ -5,34 +5,6 @@
   },
   "items": [
     {
-      "name": "Afghan Nobel TV (720p)",
-      "tvg": {
-        "id": "AfghanNobelTV.ca",
-        "name": "",
-        "logo": "https://i.ibb.co/0Mb1ZQC/IMG-20230628-133738.jpg",
-        "url": "",
-        "rec": "",
-        "shift": ""
-      },
-      "group": {
-        "title": "General"
-      },
-      "http": {
-        "referrer": "",
-        "user-agent": ""
-      },
-      "url": "https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"AfghanNobelTV.ca\" tvg-logo=\"https://i.ibb.co/0Mb1ZQC/IMG-20230628-133738.jpg\" group-title=\"General\",Afghan Nobel TV (720p)\r\nhttps://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8",
-      "line": 6,
-      "catchup": {
-        "type": "",
-        "days": "",
-        "source": ""
-      },
-      "timeshift": "",
-      "status": "OK"
-    },
-    {
       "name": "Afghan Nobel Movies (720p)",
       "tvg": {
         "id": "AfghanNobelMovies.ca",
@@ -52,6 +24,34 @@
       "url": "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8",
       "raw": "#EXTINF:-1 tvg-id=\"AfghanNobelMovies.ca\" tvg-logo=\"https://i.ibb.co/zfdbVSm/logo-1.png\" group-title=\"Movies\",Afghan Nobel Movies (720p)\r\nhttps://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8",
       "line": 4,
+      "catchup": {
+        "type": "",
+        "days": "",
+        "source": ""
+      },
+      "timeshift": "",
+      "status": "OK"
+    },
+    {
+      "name": "Afghan Nobel TV (720p)",
+      "tvg": {
+        "id": "AfghanNobelTV.ca",
+        "name": "",
+        "logo": "https://i.ibb.co/0Mb1ZQC/IMG-20230628-133738.jpg",
+        "url": "",
+        "rec": "",
+        "shift": ""
+      },
+      "group": {
+        "title": "General"
+      },
+      "http": {
+        "referrer": "",
+        "user-agent": ""
+      },
+      "url": "https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"AfghanNobelTV.ca\" tvg-logo=\"https://i.ibb.co/0Mb1ZQC/IMG-20230628-133738.jpg\" group-title=\"General\",Afghan Nobel TV (720p)\r\nhttps://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8",
+      "line": 6,
       "catchup": {
         "type": "",
         "days": "",
@@ -89,34 +89,6 @@
       "status": "OK"
     },
     {
-      "name": "Bahar TV (720p) [Not 24/7]",
-      "tvg": {
-        "id": "BaharTV.af",
-        "name": "",
-        "logo": "https://bahartv-af.com/wp-content/uploads/2017/01/IMG_1864-2.png",
-        "url": "",
-        "rec": "",
-        "shift": ""
-      },
-      "group": {
-        "title": "General"
-      },
-      "http": {
-        "referrer": "",
-        "user-agent": ""
-      },
-      "url": "https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"BaharTV.af\" tvg-logo=\"https://bahartv-af.com/wp-content/uploads/2017/01/IMG_1864-2.png\" group-title=\"General\",Bahar TV (720p) [Not 24/7]\r\nhttps://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8",
-      "line": 20,
-      "catchup": {
-        "type": "",
-        "days": "",
-        "source": ""
-      },
-      "timeshift": "",
-      "status": "OK"
-    },
-    {
       "name": "Afghanistan International (720p)",
       "tvg": {
         "id": "AfghanistanInternational.uk",
@@ -136,6 +108,34 @@
       "url": "https://hls.afintl.com/hls/stream.m3u8",
       "raw": "#EXTINF:-1 tvg-id=\"AfghanistanInternational.uk\" tvg-logo=\"https://i.imgur.com/r8MmFRX.png\" group-title=\"News\",Afghanistan International (720p)\r\nhttps://hls.afintl.com/hls/stream.m3u8",
       "line": 8,
+      "catchup": {
+        "type": "",
+        "days": "",
+        "source": ""
+      },
+      "timeshift": "",
+      "status": "OK"
+    },
+    {
+      "name": "Bahar TV (720p) [Not 24/7]",
+      "tvg": {
+        "id": "BaharTV.af",
+        "name": "",
+        "logo": "https://bahartv-af.com/wp-content/uploads/2017/01/IMG_1864-2.png",
+        "url": "",
+        "rec": "",
+        "shift": ""
+      },
+      "group": {
+        "title": "General"
+      },
+      "http": {
+        "referrer": "",
+        "user-agent": ""
+      },
+      "url": "https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"BaharTV.af\" tvg-logo=\"https://bahartv-af.com/wp-content/uploads/2017/01/IMG_1864-2.png\" group-title=\"General\",Bahar TV (720p) [Not 24/7]\r\nhttps://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8",
+      "line": 20,
       "catchup": {
         "type": "",
         "days": "",
@@ -173,34 +173,6 @@
       "status": "OK"
     },
     {
-      "name": "Bloomberg TV Asia Live Event (720p)",
-      "tvg": {
-        "id": "BloombergTVAsiaLiveEvent.hk",
-        "name": "",
-        "logo": "https://i.imgur.com/OuogLHx.png",
-        "url": "",
-        "rec": "",
-        "shift": ""
-      },
-      "group": {
-        "title": "Business"
-      },
-      "http": {
-        "referrer": "",
-        "user-agent": ""
-      },
-      "url": "https://bloomberg.com/media-manifest/streams/asia-event.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"BloombergTVAsiaLiveEvent.hk\" tvg-logo=\"https://i.imgur.com/OuogLHx.png\" group-title=\"Business\",Bloomberg TV Asia Live Event (720p)\r\nhttps://bloomberg.com/media-manifest/streams/asia-event.m3u8",
-      "line": 30,
-      "catchup": {
-        "type": "",
-        "days": "",
-        "source": ""
-      },
-      "timeshift": "",
-      "status": "OK"
-    },
-    {
       "name": "Bloomberg TV Asia (720p)",
       "tvg": {
         "id": "BloombergTVAsia.hk",
@@ -220,6 +192,34 @@
       "url": "https://bloomberg.com/media-manifest/streams/asia.m3u8",
       "raw": "#EXTINF:-1 tvg-id=\"BloombergTVAsia.hk\" tvg-logo=\"https://i.imgur.com/OuogLHx.png\" group-title=\"Business\",Bloomberg TV Asia (720p)\r\nhttps://bloomberg.com/media-manifest/streams/asia.m3u8",
       "line": 28,
+      "catchup": {
+        "type": "",
+        "days": "",
+        "source": ""
+      },
+      "timeshift": "",
+      "status": "OK"
+    },
+    {
+      "name": "Bloomberg TV Asia Live Event (720p)",
+      "tvg": {
+        "id": "BloombergTVAsiaLiveEvent.hk",
+        "name": "",
+        "logo": "https://i.imgur.com/OuogLHx.png",
+        "url": "",
+        "rec": "",
+        "shift": ""
+      },
+      "group": {
+        "title": "Business"
+      },
+      "http": {
+        "referrer": "",
+        "user-agent": ""
+      },
+      "url": "https://bloomberg.com/media-manifest/streams/asia-event.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"BloombergTVAsiaLiveEvent.hk\" tvg-logo=\"https://i.imgur.com/OuogLHx.png\" group-title=\"Business\",Bloomberg TV Asia Live Event (720p)\r\nhttps://bloomberg.com/media-manifest/streams/asia-event.m3u8",
+      "line": 30,
       "catchup": {
         "type": "",
         "days": "",
