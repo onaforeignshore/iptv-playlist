@@ -5,6 +5,34 @@
   },
   "items": [
     {
+      "name": "Atesur (1080p) [Not 24/7]",
+      "tvg": {
+        "id": "Atesur.bo",
+        "name": "",
+        "logo": "https://i.imgur.com/PWKjVkb.png",
+        "url": "",
+        "rec": "",
+        "shift": ""
+      },
+      "group": {
+        "title": "General"
+      },
+      "http": {
+        "referrer": "",
+        "user-agent": ""
+      },
+      "url": "https://video2.getstreamhosting.com:19360/8038/8038.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"Atesur.bo\" tvg-logo=\"https://i.imgur.com/PWKjVkb.png\" group-title=\"General\",Atesur (1080p) [Not 24/7]\r\nhttps://video2.getstreamhosting.com:19360/8038/8038.m3u8",
+      "line": 22,
+      "catchup": {
+        "type": "",
+        "days": "",
+        "source": ""
+      },
+      "timeshift": "",
+      "status": "OK"
+    },
+    {
       "name": "ATB La Paz (614p) [Not 24/7]",
       "tvg": {
         "id": "ATBLaPaz.bo",
@@ -145,6 +173,34 @@
       "status": "OK"
     },
     {
+      "name": "Ceacom [Not 24/7]",
+      "tvg": {
+        "id": "Ceacom.bo",
+        "name": "",
+        "logo": "https://i.imgur.com/hutdRfk.png",
+        "url": "",
+        "rec": "",
+        "shift": ""
+      },
+      "group": {
+        "title": "Music"
+      },
+      "http": {
+        "referrer": "",
+        "user-agent": ""
+      },
+      "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"Ceacom.bo\" tvg-logo=\"https://i.imgur.com/hutdRfk.png\" group-title=\"Music\",Ceacom [Not 24/7]\r\nhttps://eu1.servers10.com:8081/ceacom/index.m3u8",
+      "line": 44,
+      "catchup": {
+        "type": "",
+        "days": "",
+        "source": ""
+      },
+      "timeshift": "",
+      "status": "OK"
+    },
+    {
       "name": "Cinerama TV (480p) [Not 24/7]",
       "tvg": {
         "id": "CineramaTelevision.bo",
@@ -164,34 +220,6 @@
       "url": "https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8",
       "raw": "#EXTINF:-1 tvg-id=\"CineramaTelevision.bo\" tvg-logo=\"https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw\" group-title=\"Entertainment\",Cinerama TV (480p) [Not 24/7]\r\nhttps://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8",
       "line": 48,
-      "catchup": {
-        "type": "",
-        "days": "",
-        "source": ""
-      },
-      "timeshift": "",
-      "status": "OK"
-    },
-    {
-      "name": "Cristal TV (720p) [Not 24/7]",
-      "tvg": {
-        "id": "TelevisionCristal.bo",
-        "name": "",
-        "logo": "https://i.ibb.co/pdTCdWj/logo-cristal-fw.png",
-        "url": "",
-        "rec": "",
-        "shift": ""
-      },
-      "group": {
-        "title": "General"
-      },
-      "http": {
-        "referrer": "",
-        "user-agent": ""
-      },
-      "url": "https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"TelevisionCristal.bo\" tvg-logo=\"https://i.ibb.co/pdTCdWj/logo-cristal-fw.png\" group-title=\"General\",Cristal TV (720p) [Not 24/7]\r\nhttps://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8",
-      "line": 54,
       "catchup": {
         "type": "",
         "days": "",
@@ -425,34 +453,6 @@
       "status": "OK"
     },
     {
-      "name": "TV Show Oruro (480p)",
-      "tvg": {
-        "id": "TVShowOruro.bo",
-        "name": "",
-        "logo": "https://i.ibb.co/nnsYJCq/IMG-20210731-094609.png",
-        "url": "",
-        "rec": "",
-        "shift": ""
-      },
-      "group": {
-        "title": "General"
-      },
-      "http": {
-        "referrer": "",
-        "user-agent": ""
-      },
-      "url": "http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"TVShowOruro.bo\" tvg-logo=\"https://i.ibb.co/nnsYJCq/IMG-20210731-094609.png\" group-title=\"General\",TV Show Oruro (480p)\r\nhttp://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8",
-      "line": 238,
-      "catchup": {
-        "type": "",
-        "days": "",
-        "source": ""
-      },
-      "timeshift": "",
-      "status": "OK"
-    },
-    {
       "name": "TVU (720p) [Not 24/7]",
       "tvg": {
         "id": "TVU.bo",
@@ -472,6 +472,34 @@
       "url": "https://video.live.com.bo:3003/live/tvuumsalive.m3u8",
       "raw": "#EXTINF:-1 tvg-id=\"TVU.bo\" tvg-logo=\"https://i.imgur.com/YdiF5k6.png\" group-title=\"Undefined\",TVU (720p) [Not 24/7]\r\nhttps://video.live.com.bo:3003/live/tvuumsalive.m3u8",
       "line": 248,
+      "catchup": {
+        "type": "",
+        "days": "",
+        "source": ""
+      },
+      "timeshift": "",
+      "status": "OK"
+    },
+    {
+      "name": "TV Show Oruro (480p)",
+      "tvg": {
+        "id": "TVShowOruro.bo",
+        "name": "",
+        "logo": "https://i.ibb.co/nnsYJCq/IMG-20210731-094609.png",
+        "url": "",
+        "rec": "",
+        "shift": ""
+      },
+      "group": {
+        "title": "General"
+      },
+      "http": {
+        "referrer": "",
+        "user-agent": ""
+      },
+      "url": "http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"TVShowOruro.bo\" tvg-logo=\"https://i.ibb.co/nnsYJCq/IMG-20210731-094609.png\" group-title=\"General\",TV Show Oruro (480p)\r\nhttp://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8",
+      "line": 238,
       "catchup": {
         "type": "",
         "days": "",
