@@ -61,25 +61,25 @@
       "status": "OK"
     },
     {
-      "name": "Faculty TV (720p)",
+      "name": "CeeJay TV (480p) [Not 24/7]",
       "tvg": {
-        "id": "FacultyTV.gh",
+        "id": "CeeJayTV.gh",
         "name": "",
-        "logo": "https://i.imgur.com/gAQVPTV.png",
+        "logo": "https://i.imgur.com/YgLMMOr.png",
         "url": "",
         "rec": "",
         "shift": ""
       },
       "group": {
-        "title": "Education"
+        "title": "Entertainment"
       },
       "http": {
         "referrer": "",
         "user-agent": ""
       },
-      "url": "https://stream-server9-jupiter.muxlive.com/hls/facultytv/index.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"FacultyTV.gh\" tvg-logo=\"https://i.imgur.com/gAQVPTV.png\" group-title=\"Education\",Faculty TV (720p)\r\nhttps://stream-server9-jupiter.muxlive.com/hls/facultytv/index.m3u8",
-      "line": 42,
+      "url": "https://asiakwa.com/ceejaytv/index.fmp4.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"CeeJayTV.gh\" tvg-logo=\"https://i.imgur.com/YgLMMOr.png\" group-title=\"Entertainment\",CeeJay TV (480p) [Not 24/7]\r\nhttps://asiakwa.com/ceejaytv/index.fmp4.m3u8",
+      "line": 32,
       "catchup": {
         "type": "",
         "days": "",
@@ -145,34 +145,6 @@
       "status": "OK"
     },
     {
-      "name": "Pent TV (576p)",
-      "tvg": {
-        "id": "PentTV.gh",
-        "name": "",
-        "logo": "https://i.imgur.com/Jw6d3dR.png",
-        "url": "",
-        "rec": "",
-        "shift": ""
-      },
-      "group": {
-        "title": "Undefined"
-      },
-      "http": {
-        "referrer": "",
-        "user-agent": ""
-      },
-      "url": "https://iptv-trans.ecntv.net/live/penttv.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"PentTV.gh\" tvg-logo=\"https://i.imgur.com/Jw6d3dR.png\" group-title=\"Undefined\",Pent TV (576p)\r\nhttps://iptv-trans.ecntv.net/live/penttv.m3u8",
-      "line": 74,
-      "catchup": {
-        "type": "",
-        "days": "",
-        "source": ""
-      },
-      "timeshift": "",
-      "status": "OK"
-    },
-    {
       "name": "Resurrection TV (720p)",
       "tvg": {
         "id": "ResurrectionTV.gh",
@@ -220,6 +192,34 @@
       "url": "https://live.mediageneral.digital/live/livestream.m3u8",
       "raw": "#EXTINF:-1 tvg-id=\"TV3.gh\" tvg-logo=\"https://i.imgur.com/8t967Hq.png\" group-title=\"Undefined\",TV3 (720p) [Not 24/7]\r\nhttps://live.mediageneral.digital/live/livestream.m3u8",
       "line": 94,
+      "catchup": {
+        "type": "",
+        "days": "",
+        "source": ""
+      },
+      "timeshift": "",
+      "status": "OK"
+    },
+    {
+      "name": "Pent TV (576p)",
+      "tvg": {
+        "id": "PentTV.gh",
+        "name": "",
+        "logo": "https://i.imgur.com/Jw6d3dR.png",
+        "url": "",
+        "rec": "",
+        "shift": ""
+      },
+      "group": {
+        "title": "Undefined"
+      },
+      "http": {
+        "referrer": "",
+        "user-agent": ""
+      },
+      "url": "https://iptv-trans.ecntv.net/live/penttv.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"PentTV.gh\" tvg-logo=\"https://i.imgur.com/Jw6d3dR.png\" group-title=\"Undefined\",Pent TV (576p)\r\nhttps://iptv-trans.ecntv.net/live/penttv.m3u8",
+      "line": 74,
       "catchup": {
         "type": "",
         "days": "",
