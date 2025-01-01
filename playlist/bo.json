@@ -173,6 +173,34 @@
       "status": "OK"
     },
     {
+      "name": "Cristal TV (720p) [Not 24/7]",
+      "tvg": {
+        "id": "TelevisionCristal.bo",
+        "name": "",
+        "logo": "https://i.ibb.co/pdTCdWj/logo-cristal-fw.png",
+        "url": "",
+        "rec": "",
+        "shift": ""
+      },
+      "group": {
+        "title": "General"
+      },
+      "http": {
+        "referrer": "",
+        "user-agent": ""
+      },
+      "url": "https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"TelevisionCristal.bo\" tvg-logo=\"https://i.ibb.co/pdTCdWj/logo-cristal-fw.png\" group-title=\"General\",Cristal TV (720p) [Not 24/7]\r\nhttps://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8",
+      "line": 54,
+      "catchup": {
+        "type": "",
+        "days": "",
+        "source": ""
+      },
+      "timeshift": "",
+      "status": "OK"
+    },
+    {
       "name": "Coral TV (480p)",
       "tvg": {
         "id": "CoralTV.bo",
@@ -276,34 +304,6 @@
       "url": "https://glb.bozztv.com/glb/ssh101/centralptv/index.m3u8",
       "raw": "#EXTINF:-1 tvg-id=\"PTV.bo\" tvg-logo=\"https://i.imgur.com/vPvR7dX.png\" group-title=\"Undefined\",PTV (720p)\r\nhttps://glb.bozztv.com/glb/ssh101/centralptv/index.m3u8",
       "line": 161,
-      "catchup": {
-        "type": "",
-        "days": "",
-        "source": ""
-      },
-      "timeshift": "",
-      "status": "OK"
-    },
-    {
-      "name": "Radio Uno PST (720p)",
-      "tvg": {
-        "id": "RadioUnoPST.bo",
-        "name": "",
-        "logo": "https://i.imgur.com/TmSNZTg.jpg",
-        "url": "",
-        "rec": "",
-        "shift": ""
-      },
-      "group": {
-        "title": "General"
-      },
-      "http": {
-        "referrer": "",
-        "user-agent": ""
-      },
-      "url": "https://master.tucableip.com/pstbolivia/video.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"RadioUnoPST.bo\" tvg-logo=\"https://i.imgur.com/TmSNZTg.jpg\" group-title=\"General\",Radio Uno PST (720p)\r\nhttps://master.tucableip.com/pstbolivia/video.m3u8",
-      "line": 163,
       "catchup": {
         "type": "",
         "days": "",
