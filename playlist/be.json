@@ -5,6 +5,34 @@
   },
   "items": [
     {
+      "name": "Bel'Afrika Media TV (1080p)",
+      "tvg": {
+        "id": "BAMTV.be",
+        "name": "",
+        "logo": "https://i.imgur.com/9UmR6cs.png",
+        "url": "",
+        "rec": "",
+        "shift": ""
+      },
+      "group": {
+        "title": "Culture"
+      },
+      "http": {
+        "referrer": "",
+        "user-agent": ""
+      },
+      "url": "https://goccn.cloud/hls/belafrikatv/index.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"BAMTV.be\" tvg-logo=\"https://i.imgur.com/9UmR6cs.png\" group-title=\"Culture\",Bel'Afrika Media TV (1080p)\r\nhttps://goccn.cloud/hls/belafrikatv/index.m3u8",
+      "line": 13,
+      "catchup": {
+        "type": "",
+        "days": "",
+        "source": ""
+      },
+      "timeshift": "",
+      "status": "OK"
+    },
+    {
       "name": "BX1 (720p) [Not 24/7]",
       "tvg": {
         "id": "BX1.be",
@@ -61,34 +89,6 @@
       "status": "OK"
     },
     {
-      "name": "Bel'Afrika Media TV (1080p)",
-      "tvg": {
-        "id": "BAMTV.be",
-        "name": "",
-        "logo": "https://i.imgur.com/9UmR6cs.png",
-        "url": "",
-        "rec": "",
-        "shift": ""
-      },
-      "group": {
-        "title": "Culture"
-      },
-      "http": {
-        "referrer": "",
-        "user-agent": ""
-      },
-      "url": "https://goccn.cloud/hls/belafrikatv/index.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"BAMTV.be\" tvg-logo=\"https://i.imgur.com/9UmR6cs.png\" group-title=\"Culture\",Bel'Afrika Media TV (1080p)\r\nhttps://goccn.cloud/hls/belafrikatv/index.m3u8",
-      "line": 13,
-      "catchup": {
-        "type": "",
-        "days": "",
-        "source": ""
-      },
-      "timeshift": "",
-      "status": "OK"
-    },
-    {
       "name": "Bel RTL (1080p)",
       "tvg": {
         "id": "BelRTL.be",
@@ -117,34 +117,6 @@
       "status": "OK"
     },
     {
-      "name": "Joe FM (720p) [Not 24/7]",
-      "tvg": {
-        "id": "JoeFM.be",
-        "name": "",
-        "logo": "https://i.ibb.co/k9KJWzN/320px-Joe-radio-logo-2016-svg.png",
-        "url": "",
-        "rec": "",
-        "shift": ""
-      },
-      "group": {
-        "title": "Music"
-      },
-      "http": {
-        "referrer": "",
-        "user-agent": ""
-      },
-      "url": "https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"JoeFM.be\" tvg-logo=\"https://i.ibb.co/k9KJWzN/320px-Joe-radio-logo-2016-svg.png\" group-title=\"Music\",Joe FM (720p) [Not 24/7]\r\nhttps://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8",
-      "line": 51,
-      "catchup": {
-        "type": "",
-        "days": "",
-        "source": ""
-      },
-      "timeshift": "",
-      "status": "OK"
-    },
-    {
       "name": "Japanim TV (1080p)",
       "tvg": {
         "id": "JapanimTV.be",
@@ -164,6 +136,34 @@
       "url": "https://foxkidstv.be:3369/stream/play.m3u8",
       "raw": "#EXTINF:-1 tvg-id=\"JapanimTV.be\" tvg-logo=\"https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png\" group-title=\"Animation;Kids\",Japanim TV (1080p)\r\nhttps://foxkidstv.be:3369/stream/play.m3u8",
       "line": 49,
+      "catchup": {
+        "type": "",
+        "days": "",
+        "source": ""
+      },
+      "timeshift": "",
+      "status": "OK"
+    },
+    {
+      "name": "Joe FM (720p) [Not 24/7]",
+      "tvg": {
+        "id": "JoeFM.be",
+        "name": "",
+        "logo": "https://i.ibb.co/k9KJWzN/320px-Joe-radio-logo-2016-svg.png",
+        "url": "",
+        "rec": "",
+        "shift": ""
+      },
+      "group": {
+        "title": "Music"
+      },
+      "http": {
+        "referrer": "",
+        "user-agent": ""
+      },
+      "url": "https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"JoeFM.be\" tvg-logo=\"https://i.ibb.co/k9KJWzN/320px-Joe-radio-logo-2016-svg.png\" group-title=\"Music\",Joe FM (720p) [Not 24/7]\r\nhttps://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8",
+      "line": 51,
       "catchup": {
         "type": "",
         "days": "",
@@ -229,34 +229,6 @@
       "status": "OK"
     },
     {
-      "name": "Notele (576p) [Not 24/7]",
-      "tvg": {
-        "id": "Notele.be",
-        "name": "",
-        "logo": "https://i.imgur.com/fGS55nR.png",
-        "url": "",
-        "rec": "",
-        "shift": ""
-      },
-      "group": {
-        "title": "General"
-      },
-      "http": {
-        "referrer": "",
-        "user-agent": ""
-      },
-      "url": "https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"Notele.be\" tvg-logo=\"https://i.imgur.com/fGS55nR.png\" group-title=\"General\",Notele (576p) [Not 24/7]\r\nhttps://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8",
-      "line": 65,
-      "catchup": {
-        "type": "",
-        "days": "",
-        "source": ""
-      },
-      "timeshift": "",
-      "status": "OK"
-    },
-    {
       "name": "KTO (404p) [Not 24/7]",
       "tvg": {
         "id": "KTO.fr",
@@ -285,25 +257,25 @@
       "status": "OK"
     },
     {
-      "name": "Radio Contact (1080p)",
+      "name": "Notele (576p) [Not 24/7]",
       "tvg": {
-        "id": "RadioContact.be",
+        "id": "Notele.be",
         "name": "",
-        "logo": "https://i.imgur.com/32mmGvB.png",
+        "logo": "https://i.imgur.com/fGS55nR.png",
         "url": "",
         "rec": "",
         "shift": ""
       },
       "group": {
-        "title": "Music"
+        "title": "General"
       },
       "http": {
         "referrer": "",
         "user-agent": ""
       },
-      "url": "https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"RadioContact.be\" tvg-logo=\"https://i.imgur.com/32mmGvB.png\" group-title=\"Music\",Radio Contact (1080p)\r\nhttps://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8",
-      "line": 75,
+      "url": "https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"Notele.be\" tvg-logo=\"https://i.imgur.com/fGS55nR.png\" group-title=\"General\",Notele (576p) [Not 24/7]\r\nhttps://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8",
+      "line": 65,
       "catchup": {
         "type": "",
         "days": "",
@@ -332,6 +304,34 @@
       "url": "https://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/5f60a245c110454fba652900ecf30ea2/index.m3u8",
       "raw": "#EXTINF:-1 tvg-id=\"QMusic.be\" tvg-logo=\"https://i.imgur.com/VX5e9Xt.png\" group-title=\"Music\",Q-Music (Belgium) (1080p)\r\nhttps://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/5f60a245c110454fba652900ecf30ea2/index.m3u8",
       "line": 73,
+      "catchup": {
+        "type": "",
+        "days": "",
+        "source": ""
+      },
+      "timeshift": "",
+      "status": "OK"
+    },
+    {
+      "name": "Radio Contact (1080p)",
+      "tvg": {
+        "id": "RadioContact.be",
+        "name": "",
+        "logo": "https://i.imgur.com/32mmGvB.png",
+        "url": "",
+        "rec": "",
+        "shift": ""
+      },
+      "group": {
+        "title": "Music"
+      },
+      "http": {
+        "referrer": "",
+        "user-agent": ""
+      },
+      "url": "https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"RadioContact.be\" tvg-logo=\"https://i.imgur.com/32mmGvB.png\" group-title=\"Music\",Radio Contact (1080p)\r\nhttps://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8",
+      "line": 75,
       "catchup": {
         "type": "",
         "days": "",
