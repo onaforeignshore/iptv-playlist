@@ -173,34 +173,6 @@
       "status": "OK"
     },
     {
-      "name": "Magic TV (720p)",
-      "tvg": {
-        "id": "MagicTV.bg",
-        "name": "",
-        "logo": "https://i.imgur.com/n7bcrrp.png",
-        "url": "",
-        "rec": "",
-        "shift": ""
-      },
-      "group": {
-        "title": "Music"
-      },
-      "http": {
-        "referrer": "",
-        "user-agent": ""
-      },
-      "url": "https://bss1.neterra.tv/magictv/magictv.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"MagicTV.bg\" tvg-logo=\"https://i.imgur.com/n7bcrrp.png\" group-title=\"Music\",Magic TV (720p)\r\nhttps://bss1.neterra.tv/magictv/magictv.m3u8",
-      "line": 57,
-      "catchup": {
-        "type": "",
-        "days": "",
-        "source": ""
-      },
-      "timeshift": "",
-      "status": "OK"
-    },
-    {
       "name": "Plovdivska Pravoslavna TV (1080p)",
       "tvg": {
         "id": "PlovdivOrthodoxTV.bg",
@@ -229,25 +201,25 @@
       "status": "OK"
     },
     {
-      "name": "RMTV (288p)",
+      "name": "Magic TV (720p)",
       "tvg": {
-        "id": "RMTV.bg",
+        "id": "MagicTV.bg",
         "name": "",
-        "logo": "https://rmtv.bg/img/logo.png",
+        "logo": "https://i.imgur.com/n7bcrrp.png",
         "url": "",
         "rec": "",
         "shift": ""
       },
       "group": {
-        "title": "Undefined"
+        "title": "Music"
       },
       "http": {
         "referrer": "",
         "user-agent": ""
       },
-      "url": "https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"RMTV.bg\" tvg-logo=\"https://rmtv.bg/img/logo.png\" group-title=\"Undefined\",RMTV (288p)\r\nhttps://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8",
-      "line": 69,
+      "url": "https://bss1.neterra.tv/magictv/magictv.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"MagicTV.bg\" tvg-logo=\"https://i.imgur.com/n7bcrrp.png\" group-title=\"Music\",Magic TV (720p)\r\nhttps://bss1.neterra.tv/magictv/magictv.m3u8",
+      "line": 57,
       "catchup": {
         "type": "",
         "days": "",
@@ -276,6 +248,34 @@
       "url": "https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8",
       "raw": "#EXTINF:-1 tvg-id=\"HopeChannelBulgaria.bg\" tvg-logo=\"https://i.imgur.com/bxzeEML.png\" group-title=\"Religious\",Hope Channel Bulgaria\r\nhttps://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8",
       "line": 50,
+      "catchup": {
+        "type": "",
+        "days": "",
+        "source": ""
+      },
+      "timeshift": "",
+      "status": "OK"
+    },
+    {
+      "name": "RMTV (288p)",
+      "tvg": {
+        "id": "RMTV.bg",
+        "name": "",
+        "logo": "https://rmtv.bg/img/logo.png",
+        "url": "",
+        "rec": "",
+        "shift": ""
+      },
+      "group": {
+        "title": "Undefined"
+      },
+      "http": {
+        "referrer": "",
+        "user-agent": ""
+      },
+      "url": "https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"RMTV.bg\" tvg-logo=\"https://rmtv.bg/img/logo.png\" group-title=\"Undefined\",RMTV (288p)\r\nhttps://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8",
+      "line": 69,
       "catchup": {
         "type": "",
         "days": "",
@@ -369,34 +369,6 @@
       "status": "OK"
     },
     {
-      "name": "TV Zagora (576p)",
-      "tvg": {
-        "id": "TVZagora.bg",
-        "name": "",
-        "logo": "https://i.imgur.com/HDGfDkL.png",
-        "url": "",
-        "rec": "",
-        "shift": ""
-      },
-      "group": {
-        "title": "General"
-      },
-      "http": {
-        "referrer": "",
-        "user-agent": ""
-      },
-      "url": "http://zagoratv.ddns.net:8080/tvzagora.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"TVZagora.bg\" tvg-logo=\"https://i.imgur.com/HDGfDkL.png\" group-title=\"General\",TV Zagora (576p)\r\nhttp://zagoratv.ddns.net:8080/tvzagora.m3u8",
-      "line": 95,
-      "catchup": {
-        "type": "",
-        "days": "",
-        "source": ""
-      },
-      "timeshift": "",
-      "status": "OK"
-    },
-    {
       "name": "Travel TV (576p)",
       "tvg": {
         "id": "TravelTV.bg",
@@ -416,6 +388,34 @@
       "url": "https://streamer103.neterra.tv/travel/live.m3u8",
       "raw": "#EXTINF:-1 tvg-id=\"TravelTV.bg\" tvg-logo=\"https://i.imgur.com/fdogzKO.png\" group-title=\"Travel\",Travel TV (576p)\r\nhttps://streamer103.neterra.tv/travel/live.m3u8",
       "line": 87,
+      "catchup": {
+        "type": "",
+        "days": "",
+        "source": ""
+      },
+      "timeshift": "",
+      "status": "OK"
+    },
+    {
+      "name": "TV Zagora (576p)",
+      "tvg": {
+        "id": "TVZagora.bg",
+        "name": "",
+        "logo": "https://i.imgur.com/HDGfDkL.png",
+        "url": "",
+        "rec": "",
+        "shift": ""
+      },
+      "group": {
+        "title": "General"
+      },
+      "http": {
+        "referrer": "",
+        "user-agent": ""
+      },
+      "url": "http://zagoratv.ddns.net:8080/tvzagora.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"TVZagora.bg\" tvg-logo=\"https://i.imgur.com/HDGfDkL.png\" group-title=\"General\",TV Zagora (576p)\r\nhttp://zagoratv.ddns.net:8080/tvzagora.m3u8",
+      "line": 95,
       "catchup": {
         "type": "",
         "days": "",
