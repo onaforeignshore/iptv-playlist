@@ -5,25 +5,25 @@
   },
   "items": [
     {
-      "name": "América TeVé (1080p)",
+      "name": "ACS Network (480p)",
       "tvg": {
-        "id": "AmericaTeVe.pr",
+        "id": "ACSNetwork.pr",
         "name": "",
-        "logo": "https://i.imgur.com/K9o3mLP.png",
+        "logo": "https://i.imgur.com/7aIab2r.png",
         "url": "",
         "rec": "",
         "shift": ""
       },
       "group": {
-        "title": "Entertainment;General"
+        "title": "Entertainment"
       },
       "http": {
         "referrer": "",
         "user-agent": ""
       },
-      "url": "https://live.gideo.video/americateve2/master.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"AmericaTeVe.pr\" tvg-logo=\"https://i.imgur.com/K9o3mLP.png\" group-title=\"Entertainment;General\",América TeVé (1080p)\r\nhttps://live.gideo.video/americateve2/master.m3u8",
-      "line": 8,
+      "url": "https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"ACSNetwork.pr\" tvg-logo=\"https://i.imgur.com/7aIab2r.png\" group-title=\"Entertainment\",ACS Network (480p)\r\nhttps://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8",
+      "line": 4,
       "catchup": {
         "type": "",
         "days": "",
@@ -61,25 +61,25 @@
       "status": "OK"
     },
     {
-      "name": "ACS Network (480p)",
+      "name": "América TeVé (1080p)",
       "tvg": {
-        "id": "ACSNetwork.pr",
+        "id": "AmericaTeVe.pr",
         "name": "",
-        "logo": "https://i.imgur.com/7aIab2r.png",
+        "logo": "https://i.imgur.com/K9o3mLP.png",
         "url": "",
         "rec": "",
         "shift": ""
       },
       "group": {
-        "title": "Entertainment"
+        "title": "Entertainment;General"
       },
       "http": {
         "referrer": "",
         "user-agent": ""
       },
-      "url": "https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"ACSNetwork.pr\" tvg-logo=\"https://i.imgur.com/7aIab2r.png\" group-title=\"Entertainment\",ACS Network (480p)\r\nhttps://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8",
-      "line": 4,
+      "url": "https://live.gideo.video/americateve2/master.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"AmericaTeVe.pr\" tvg-logo=\"https://i.imgur.com/K9o3mLP.png\" group-title=\"Entertainment;General\",América TeVé (1080p)\r\nhttps://live.gideo.video/americateve2/master.m3u8",
+      "line": 8,
       "catchup": {
         "type": "",
         "days": "",
@@ -145,25 +145,25 @@
       "status": "OK"
     },
     {
-      "name": "DeFiance Media (1080p)",
+      "name": "Faro de Santidad TV (720p)",
       "tvg": {
-        "id": "DeFianceMedia.pr",
+        "id": "FarodeSantidadTV.pr",
         "name": "",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5e6HtuC9SEacvU98D5CWN9eBhERsc_WU73KZAyKHaePqMkJloAQ1lGfSGHqg-W_j5Z2g&usqp=CAU",
+        "logo": "https://i.imgur.com/GoNBFzI.png",
         "url": "",
         "rec": "",
         "shift": ""
       },
       "group": {
-        "title": "Business"
+        "title": "Religious"
       },
       "http": {
         "referrer": "",
         "user-agent": ""
       },
-      "url": "https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"DeFianceMedia.pr\" tvg-logo=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5e6HtuC9SEacvU98D5CWN9eBhERsc_WU73KZAyKHaePqMkJloAQ1lGfSGHqg-W_j5Z2g&usqp=CAU\" group-title=\"Business\",DeFiance Media (1080p)\r\nhttps://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8",
-      "line": 49,
+      "url": "https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"FarodeSantidadTV.pr\" tvg-logo=\"https://i.imgur.com/GoNBFzI.png\" group-title=\"Religious\",Faro de Santidad TV (720p)\r\nhttps://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8",
+      "line": 75,
       "catchup": {
         "type": "",
         "days": "",
@@ -201,25 +201,25 @@
       "status": "OK"
     },
     {
-      "name": "Faro de Santidad TV (720p)",
+      "name": "DeFiance Media (1080p)",
       "tvg": {
-        "id": "FarodeSantidadTV.pr",
+        "id": "DeFianceMedia.pr",
         "name": "",
-        "logo": "https://i.imgur.com/GoNBFzI.png",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5e6HtuC9SEacvU98D5CWN9eBhERsc_WU73KZAyKHaePqMkJloAQ1lGfSGHqg-W_j5Z2g&usqp=CAU",
         "url": "",
         "rec": "",
         "shift": ""
       },
       "group": {
-        "title": "Religious"
+        "title": "Business"
       },
       "http": {
         "referrer": "",
         "user-agent": ""
       },
-      "url": "https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"FarodeSantidadTV.pr\" tvg-logo=\"https://i.imgur.com/GoNBFzI.png\" group-title=\"Religious\",Faro de Santidad TV (720p)\r\nhttps://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8",
-      "line": 75,
+      "url": "https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"DeFianceMedia.pr\" tvg-logo=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5e6HtuC9SEacvU98D5CWN9eBhERsc_WU73KZAyKHaePqMkJloAQ1lGfSGHqg-W_j5Z2g&usqp=CAU\" group-title=\"Business\",DeFiance Media (1080p)\r\nhttps://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8",
+      "line": 49,
       "catchup": {
         "type": "",
         "days": "",
@@ -248,6 +248,62 @@
       "url": "https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8",
       "raw": "#EXTINF:-1 tvg-id=\"MasterVideo.pr\" tvg-logo=\"https://i.imgur.com/0jj9Vx0.png\" group-title=\"Religious\",Master Video (1080p)\r\nhttps://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8",
       "line": 105,
+      "catchup": {
+        "type": "",
+        "days": "",
+        "source": ""
+      },
+      "timeshift": "",
+      "status": "OK"
+    },
+    {
+      "name": "NotiUno TV (854p) [Not 24/7]",
+      "tvg": {
+        "id": "NotiUnoTV.pr",
+        "name": "",
+        "logo": "https://i.imgur.com/qNdywBT.png",
+        "url": "",
+        "rec": "",
+        "shift": ""
+      },
+      "group": {
+        "title": "News"
+      },
+      "http": {
+        "referrer": "",
+        "user-agent": ""
+      },
+      "url": "https://59a564764e2b6.streamlock.net/notiunotv/notiunotv/playlist.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"NotiUnoTV.pr\" tvg-logo=\"https://i.imgur.com/qNdywBT.png\" group-title=\"News\",NotiUno TV (854p) [Not 24/7]\r\nhttps://59a564764e2b6.streamlock.net/notiunotv/notiunotv/playlist.m3u8",
+      "line": 113,
+      "catchup": {
+        "type": "",
+        "days": "",
+        "source": ""
+      },
+      "timeshift": "",
+      "status": "OK"
+    },
+    {
+      "name": "Nueva Vida TV (720p)",
+      "tvg": {
+        "id": "NuevaVidaFM.pr",
+        "name": "",
+        "logo": "https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png",
+        "url": "",
+        "rec": "",
+        "shift": ""
+      },
+      "group": {
+        "title": "Music;Religious"
+      },
+      "http": {
+        "referrer": "",
+        "user-agent": ""
+      },
+      "url": "https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"NuevaVidaFM.pr\" tvg-logo=\"https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png\" group-title=\"Music;Religious\",Nueva Vida TV (720p)\r\nhttps://vip.livecastnet.com:3206/live/nuevavidalive.m3u8",
+      "line": 117,
       "catchup": {
         "type": "",
         "days": "",
@@ -313,34 +369,6 @@
       "status": "OK"
     },
     {
-      "name": "NotiUno TV (854p) [Not 24/7]",
-      "tvg": {
-        "id": "NotiUnoTV.pr",
-        "name": "",
-        "logo": "https://i.imgur.com/qNdywBT.png",
-        "url": "",
-        "rec": "",
-        "shift": ""
-      },
-      "group": {
-        "title": "News"
-      },
-      "http": {
-        "referrer": "",
-        "user-agent": ""
-      },
-      "url": "https://59a564764e2b6.streamlock.net/notiunotv/notiunotv/playlist.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"NotiUnoTV.pr\" tvg-logo=\"https://i.imgur.com/qNdywBT.png\" group-title=\"News\",NotiUno TV (854p) [Not 24/7]\r\nhttps://59a564764e2b6.streamlock.net/notiunotv/notiunotv/playlist.m3u8",
-      "line": 113,
-      "catchup": {
-        "type": "",
-        "days": "",
-        "source": ""
-      },
-      "timeshift": "",
-      "status": "OK"
-    },
-    {
       "name": "Radio Isla TV (720p)",
       "tvg": {
         "id": "RadioIslaTV.pr",
@@ -397,34 +425,6 @@
       "status": "OK"
     },
     {
-      "name": "The Retro Channel (1080p)",
-      "tvg": {
-        "id": "TheRetroChannel.pr",
-        "name": "",
-        "logo": "https://i.imgur.com/t3i1HtE.jpg",
-        "url": "",
-        "rec": "",
-        "shift": ""
-      },
-      "group": {
-        "title": "Music"
-      },
-      "http": {
-        "referrer": "",
-        "user-agent": ""
-      },
-      "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"TheRetroChannel.pr\" tvg-logo=\"https://i.imgur.com/t3i1HtE.jpg\" group-title=\"Music\",The Retro Channel (1080p)\r\nhttps://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
-      "line": 169,
-      "catchup": {
-        "type": "",
-        "days": "",
-        "source": ""
-      },
-      "timeshift": "",
-      "status": "OK"
-    },
-    {
       "name": "Telenorte (720p)",
       "tvg": {
         "id": "Telenorte.pr",
@@ -453,25 +453,25 @@
       "status": "OK"
     },
     {
-      "name": "WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7]",
+      "name": "The Retro Channel (1080p)",
       "tvg": {
-        "id": "WDWLDT1.pr",
+        "id": "TheRetroChannel.pr",
         "name": "",
-        "logo": "https://i.imgur.com/B7lqYZe.png",
+        "logo": "https://i.imgur.com/t3i1HtE.jpg",
         "url": "",
         "rec": "",
         "shift": ""
       },
       "group": {
-        "title": "Religious"
+        "title": "Music"
       },
       "http": {
         "referrer": "",
         "user-agent": ""
       },
-      "url": "https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"WDWLDT1.pr\" tvg-logo=\"https://i.imgur.com/B7lqYZe.png\" group-title=\"Religious\",WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7]\r\nhttps://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8",
-      "line": 199,
+      "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"TheRetroChannel.pr\" tvg-logo=\"https://i.imgur.com/t3i1HtE.jpg\" group-title=\"Music\",The Retro Channel (1080p)\r\nhttps://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
+      "line": 169,
       "catchup": {
         "type": "",
         "days": "",
@@ -509,25 +509,25 @@
       "status": "OK"
     },
     {
-      "name": "WKAQ-DT1 (Telemundo PR) (1080p)",
+      "name": "WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7]",
       "tvg": {
-        "id": "WKAQDT1.pr",
+        "id": "WDWLDT1.pr",
         "name": "",
-        "logo": "https://i.imgur.com/DVASpQj.png",
+        "logo": "https://i.imgur.com/B7lqYZe.png",
         "url": "",
         "rec": "",
         "shift": ""
       },
       "group": {
-        "title": "Undefined"
+        "title": "Religious"
       },
       "http": {
         "referrer": "",
         "user-agent": ""
       },
-      "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"WKAQDT1.pr\" tvg-logo=\"https://i.imgur.com/DVASpQj.png\" group-title=\"Undefined\",WKAQ-DT1 (Telemundo PR) (1080p)\r\nhttps://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
-      "line": 205,
+      "url": "https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"WDWLDT1.pr\" tvg-logo=\"https://i.imgur.com/B7lqYZe.png\" group-title=\"Religious\",WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7]\r\nhttps://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8",
+      "line": 199,
       "catchup": {
         "type": "",
         "days": "",
@@ -556,6 +556,34 @@
       "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8",
       "raw": "#EXTINF:-1 tvg-id=\"WKAQDT2.pr\" tvg-logo=\"https://i.imgur.com/TL6xy4y.png\" group-title=\"Undefined\",WKAQ-DT2 (Punto 2) (720p)\r\nhttps://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8",
       "line": 207,
+      "catchup": {
+        "type": "",
+        "days": "",
+        "source": ""
+      },
+      "timeshift": "",
+      "status": "OK"
+    },
+    {
+      "name": "WKAQ-DT1 (Telemundo PR) (1080p)",
+      "tvg": {
+        "id": "WKAQDT1.pr",
+        "name": "",
+        "logo": "https://i.imgur.com/DVASpQj.png",
+        "url": "",
+        "rec": "",
+        "shift": ""
+      },
+      "group": {
+        "title": "Undefined"
+      },
+      "http": {
+        "referrer": "",
+        "user-agent": ""
+      },
+      "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"WKAQDT1.pr\" tvg-logo=\"https://i.imgur.com/DVASpQj.png\" group-title=\"Undefined\",WKAQ-DT1 (Telemundo PR) (1080p)\r\nhttps://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+      "line": 205,
       "catchup": {
         "type": "",
         "days": "",
@@ -621,25 +649,25 @@
       "status": "OK"
     },
     {
-      "name": "WXWZ-LD1 (MásTV Canal 23) (720p)",
+      "name": "WWXY-DT3 (Maranatha Radio Ministries) (720p) [Not 24/7]",
       "tvg": {
-        "id": "WXWZLD1.pr",
+        "id": "WWXYDT3.pr",
         "name": "",
-        "logo": "https://i.imgur.com/rjmGc9p.png",
+        "logo": "https://i.imgur.com/lAhIGsI.png",
         "url": "",
         "rec": "",
         "shift": ""
       },
       "group": {
-        "title": "Undefined"
+        "title": "Religious"
       },
       "http": {
         "referrer": "",
         "user-agent": ""
       },
-      "url": "https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"WXWZLD1.pr\" tvg-logo=\"https://i.imgur.com/rjmGc9p.png\" group-title=\"Undefined\",WXWZ-LD1 (MásTV Canal 23) (720p)\r\nhttps://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8",
-      "line": 215,
+      "url": "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"WWXYDT3.pr\" tvg-logo=\"https://i.imgur.com/lAhIGsI.png\" group-title=\"Religious\",WWXY-DT3 (Maranatha Radio Ministries) (720p) [Not 24/7]\r\nhttps://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8",
+      "line": 213,
       "catchup": {
         "type": "",
         "days": "",
@@ -668,6 +696,34 @@
       "url": "https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8",
       "raw": "#EXTINF:-1 tvg-id=\"WRUADT1.pr\" tvg-logo=\"https://i.imgur.com/YtTlZq3.png\" group-title=\"Entertainment\",WRUA-DT1 (Tiva TV) (720p)\r\nhttps://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8",
       "line": 209,
+      "catchup": {
+        "type": "",
+        "days": "",
+        "source": ""
+      },
+      "timeshift": "",
+      "status": "OK"
+    },
+    {
+      "name": "WXWZ-LD1 (MásTV Canal 23) (720p)",
+      "tvg": {
+        "id": "WXWZLD1.pr",
+        "name": "",
+        "logo": "https://i.imgur.com/rjmGc9p.png",
+        "url": "",
+        "rec": "",
+        "shift": ""
+      },
+      "group": {
+        "title": "Undefined"
+      },
+      "http": {
+        "referrer": "",
+        "user-agent": ""
+      },
+      "url": "https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"WXWZLD1.pr\" tvg-logo=\"https://i.imgur.com/rjmGc9p.png\" group-title=\"Undefined\",WXWZ-LD1 (MásTV Canal 23) (720p)\r\nhttps://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8",
+      "line": 215,
       "catchup": {
         "type": "",
         "days": "",
