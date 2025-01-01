@@ -33,62 +33,6 @@
       "status": "OK"
     },
     {
-      "name": "Maldives TV (608p)",
-      "tvg": {
-        "id": "MaldivesTV.mv",
-        "name": "",
-        "logo": "https://i.imgur.com/Zl2FmFC.png",
-        "url": "",
-        "rec": "",
-        "shift": ""
-      },
-      "group": {
-        "title": "Travel"
-      },
-      "http": {
-        "referrer": "",
-        "user-agent": ""
-      },
-      "url": "https://live.maldivestv.mv/hls/stream/index.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"MaldivesTV.mv\" tvg-logo=\"https://i.imgur.com/Zl2FmFC.png\" group-title=\"Travel\",Maldives TV (608p)\r\nhttps://live.maldivestv.mv/hls/stream/index.m3u8",
-      "line": 20,
-      "catchup": {
-        "type": "",
-        "days": "",
-        "source": ""
-      },
-      "timeshift": "",
-      "status": "OK"
-    },
-    {
-      "name": "TV Maldives",
-      "tvg": {
-        "id": "TVMaldives.mv",
-        "name": "",
-        "logo": "https://i.imgur.com/1c7rFKC.png",
-        "url": "",
-        "rec": "",
-        "shift": ""
-      },
-      "group": {
-        "title": "Undefined"
-      },
-      "http": {
-        "referrer": "",
-        "user-agent": ""
-      },
-      "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"TVMaldives.mv\" tvg-logo=\"https://i.imgur.com/1c7rFKC.png\" group-title=\"Undefined\",TV Maldives\r\nhttps://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8",
-      "line": 30,
-      "catchup": {
-        "type": "",
-        "days": "",
-        "source": ""
-      },
-      "timeshift": "",
-      "status": "OK"
-    },
-    {
       "name": "Raajje TV (480p)",
       "tvg": {
         "id": "RaajjeTV.mv",
@@ -117,6 +61,34 @@
       "status": "OK"
     },
     {
+      "name": "Maldives TV (608p)",
+      "tvg": {
+        "id": "MaldivesTV.mv",
+        "name": "",
+        "logo": "https://i.imgur.com/Zl2FmFC.png",
+        "url": "",
+        "rec": "",
+        "shift": ""
+      },
+      "group": {
+        "title": "Travel"
+      },
+      "http": {
+        "referrer": "",
+        "user-agent": ""
+      },
+      "url": "https://live.maldivestv.mv/hls/stream/index.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"MaldivesTV.mv\" tvg-logo=\"https://i.imgur.com/Zl2FmFC.png\" group-title=\"Travel\",Maldives TV (608p)\r\nhttps://live.maldivestv.mv/hls/stream/index.m3u8",
+      "line": 20,
+      "catchup": {
+        "type": "",
+        "days": "",
+        "source": ""
+      },
+      "timeshift": "",
+      "status": "OK"
+    },
+    {
       "name": "YES",
       "tvg": {
         "id": "YES.mv",
@@ -136,6 +108,34 @@
       "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8",
       "raw": "#EXTINF:-1 tvg-id=\"YES.mv\" tvg-logo=\"https://i.imgur.com/HARIGQl.png\" group-title=\"News\",YES\r\nhttps://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8",
       "line": 36,
+      "catchup": {
+        "type": "",
+        "days": "",
+        "source": ""
+      },
+      "timeshift": "",
+      "status": "OK"
+    },
+    {
+      "name": "TV Maldives",
+      "tvg": {
+        "id": "TVMaldives.mv",
+        "name": "",
+        "logo": "https://i.imgur.com/1c7rFKC.png",
+        "url": "",
+        "rec": "",
+        "shift": ""
+      },
+      "group": {
+        "title": "Undefined"
+      },
+      "http": {
+        "referrer": "",
+        "user-agent": ""
+      },
+      "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8",
+      "raw": "#EXTINF:-1 tvg-id=\"TVMaldives.mv\" tvg-logo=\"https://i.imgur.com/1c7rFKC.png\" group-title=\"Undefined\",TV Maldives\r\nhttps://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8",
+      "line": 30,
       "catchup": {
         "type": "",
         "days": "",
